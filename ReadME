@@ -1,0 +1,18 @@
+**Opencore EFI for Intel nuc8i3bek/beh macOS**
+
+WARNING: THIS EFI ONLY HAS BEEN ONLY TESTED FOR macOS 12,13,14 TRY ON NEWER VERSION AT YOUR OWN RISKS...
+
+IF YOU DAMAGE YOUR SYSTEM I AM NOT RESPONSIBLE.. IF YOU TRY BLAMING US WE WILL LAUGH AT YOU..
+
+1. HeliPort Alpha included for itlwn if you are using macos ventura or older versions use airportitlwm and delete itlwm
+2. bluetooth has been tested with multiple devices such as : Speaker,mouse,keyboard ETC.
+3. do not use with any other system..
+4. you will need to use gensmbios to get iservices to work chances are 50/50 of working
+4.With Thunderbolt Hot-Plug Works without flashing
+
+things known to not work:
+1. airdrop is not working on my unit but works on beh series some time
+2. apple iservices not working on our unit.. might work on yours
+3.Everything else works fine
+
+Last of all Thank you for using my efi 
