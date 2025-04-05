@@ -10,7 +10,7 @@ IF YOU DAMAGE YOUR SYSTEM I AM NOT RESPONSIBLE.. IF YOU TRY BLAMING US WE WILL L
 4. you will need to use gensmbios to get iservices to work chances are 50/50 of working
 4.With Thunderbolt Hot-Plug Works without flashing
 
-things known to not work:
+## things known to not work:
 1. airdrop is not working on my unit but works on beh series some time
 2. apple iservices not working on our unit.. might work on yours
 3.Everything else works fine
